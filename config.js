@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yayyyyy! I'm the luckiest person in the world! 💝💖💝💓",
+        message: "I love you so much babyyyy",
         emojis: "💓💖😻💝💗❤️😸💕😽"  // These will bounce around
     },
 
@@ -58,7 +58,7 @@ const CONFIG = {
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
         backgroundStart: "#DFB2F4",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#C7F4B2",        // Gradient end (should complement backgroundStart)
+        backgroundEnd: "#BEB2F4",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
