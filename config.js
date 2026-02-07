@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Kamu suka aku enggaaa",                                    // First interaction
+            text: "Kamu suka aku enggaaa?",                                    // First interaction
             yesBtn: "Iyaaaa",                                             // Text for "Yes" button
             noBtn: "Enggaaaa",                                               // Text for "No" button
             secretAnswer: "Aku engga suka kamu, aku sayang kamuuuu ❤️"           // Secret hover message
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Sayang ultra pro max++",  // Shows when they go past 5000%
+        extreme: "Sayang ultra super xl pro max++ 😍​🤩​😘​",  // Shows when they go past 5000%
         high: "Sayang banget banget banget 🚀💝",              // Shows when they go past 1000%
         normal: "Sayang bangett 🥰"                           // Shows when they go past 100%
     },
@@ -51,14 +51,14 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "💓💖😻💝💗❤️😸💕😽"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
+        backgroundStart: "#DFB2F4",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#C7F4B2",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
@@ -67,10 +67,10 @@ const CONFIG = {
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDuration: "12s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
+        heartExplosionSize: 2        // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
